@@ -1,6 +1,6 @@
 # 🏥 Pipeline ETL: Predição de Risco Glicêmico
 
-**Bootcamp Santander Dev Week 2023 - DIO**  
+**Bootcamp Santander Data Science com Python 2025 - DIO**  
 **Autora:** [Nathália Pereira da Costa] - Enfermeira | Estudante de Data Science
 
 ## 📋 Projeto
